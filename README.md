@@ -20,10 +20,10 @@ If the solution cannot understand the question or cannot readily answer it, it c
 
 The project is still in progress, and is constantly being updated and improved. For the final version, check back after May 20th (Final presentation date)!
 
-The structure of the subfolders is as follows:\n
-WA -> Watson Assistant Workspace file \n
-WDS -> Some sample documents uploaded to Discovery for querying \n
-WKS -> Documents -> Documents used for development of the model, the type system as well as creation of preannotation dictionaries; Documents used as training and testing set for training and evaluation of the model \n
-WKS -> Dictionaries -> Preannotation Dictionaries \n
-WKS -> Type System -> Type system file \n
-NodeRed -> NodeRed integration file \n
+The structure of the subfolders is as follows:
+WA -> Watson Assistant Workspace file;
+WDS -> Some sample documents uploaded to Discovery for querying;
+WKS -> Documents -> Documents used for development of the model, the type system as well as creation of preannotation dictionaries; Documents used as training and testing set for training and evaluation of the model;
+WKS -> Dictionaries -> Preannotation Dictionaries;
+WKS -> Type System -> Type system file;
+NodeRed -> NodeRed integration file;
