@@ -1,0 +1,60 @@
+﻿6. Uses
+
+Table 11 shows an analysis by end-use of approximately half of the world market for polyethylenes. The pattern is very different for the two classes. LDPE (together with LLDPE which is sold into the same market) is used predominantly for films, not all of which is for packaging. Because of its greater rigidity and better creep properties, HDPE is used in more structural applications, and also has important applications in the packaging of aggressive liquids such as bleach, detergent, and hydrocarbons. The basic techniques of plastics fabrication are treated in
+
+
+6.1. Film
+
+LDPE retains its position as a preferred packaging material because of its limp feel, transparency, toughness, and the ability to rapidly take up the shape of the contents of the bag. Other materials such as thinner HDPE film or paper may in some cases be more economical, but are less acceptable to the customer. Most LDPE film is produced by the film blowing process (! Films) but flat film extruded onto chilled rolls (! Films) is also made, particularly in the United States. An LDPE for high-clarity film typically has a MFI of 2 and a density of 920 kg/m3 and is extruded at 160 – 180 C. The cast film process is usually used with higher density polyethylenes (930 – 935 kg/m3), where the quenching on the chilled rolls enables good optical properties to be achieved with a higher film stiffness. The bubble diameter in the tubular film process may be up to 2 m for general purpose packaging, and larger for heavy gauge industrial film. Originally, bags were made directly from tubular film by welding one end, but the tendency now is to make wide film on large machines and fabricate the bags by welding and cutting. Apart from packaging film and heavy duty sacks, increasing quantities of polyethylene are used for impermeable or stabilizing membranes in civil engineering construction.
+
+Additives play a particularly important role in the production of LDPE film by the film blowing process. Without additives, the pressure of the windup rollers on the warm film forces the surfaces into such close contact that subsequently it may be virtually impossible to separate them. High-gloss films are the worst affected. This is overcome by adding an antiblocking agent such as very fine silica, which roughens the surface on a submicroscopic scale without significantly affecting the optical properties. To reduce the friction between the surfaces a slip agent such as oleamide or erucamide is added. Other additives may be added to achieve effects in the final product such as oxidation resistance, UV resistance, or antistatic properties.
+
+A film extruder designed for LDPE requires extensive modifications to allow it to extrude LLDPE at comparable rates [123–125]. To avoid this investment and the lack of flexibility, many film manufacturers (particularly in Europe) use blends of LDPE and LLDPE. The equipment modifications required are:
+
+1.The screw must have greater clearance between the flights and the barrel to avoid temperature buildup due to the higher shear viscosity. Ideally the screw should be shorter.
+
+2.The die gap must be widened to reduce the shear rate and so avoid a type of surface defect, known as shark skin, to which narrow MMD polymers are prone. To some extent this problem can be avoided by incorporating additives based on fluoroelastomers (Du Pont, 3M) or silicones (UCC) [126–128].
+
+The cooling ring must give more rapid quenching of the melt to avoid the development of excessive crystalline haze, and also to give more support to the bubble because of the lower tensile viscosity under the inflation conditions. Apart from this lack of inherent stability of the bubble, the low tensile 
+viscosity is responsible for the major product advantage of LLDPE, since high stresses do not occur when the melt is drawn down to thin film. LLDPE can be drawn down to much thinner film without the bubble tearing than can a LDPE with equivalent mechanical properties.
+
+HDPE film is generally made on units specifically optimized for the high molecular mass grades normally used. To produce tough films a balanced orientation of the film is necessary, and a high ratio of die diameter to bubble diameter (‘‘blow ratio’’) is used so as to balance the machine direction draw with a high transverse draw. A characteristic stalk-shaped bubble is used in which substantial machine-direction draw takes place before a rapid expansion occurs some distance above the die. Mechanical guides are needed to stabilize the bubble. HDPE film is opaque and is usually used in much thinner gauges than LDPE. It competes with LDPE in areas such as carrier bags and supermarket convenience bags.
+
+6.2. Extrusion Coating
+
+LDPE is used extensively for coating cardboard, paper, and aluminum for milk cartons etc., for which a very low level of impurities is required. Extrusion is carried out at ca. 300 C through a wide-slit die. Polymers with a high die swell due to long branching perform best, since the tendency to expand on leaving the die opposes the ‘‘neck-in’’ tendency when the melt is drawn onto the substrate. A typical LDPE used for this application has a MFI of 4 and a density of 920 kg/m3.
+
+6.3. Blow Molding
+
+HDPE is now the preferred material for blow-molded containers for liquids, combining adequate environmental stress crack resistance with higher rigidity than LDPE, and hence permitting lower bottle weights for a given duty. The major uses are in the domestic market for bleach, detergents, and milk. For this application a HDPE with a MFI of 0.2 and a density of 950 g/m3 is suitable. Other uses include a variety of industrial containers and gasoline tanks. There is a trend to higher molecular mass and to broader MMD polymers, with bimodal MMDs achieved by using catalyst or reactor developments [129].
+
+6.4. Injection Molding
+
+Injection molding is used for a variety of products. Some, such as caps and lids are used in the packaging field. Other applications such as housewares, toys, and industrial containers are more durable. According to whether high flexibility is required or not, LDPE or HDPE may be used. Some LLDPEs with a narrow MMD are particularly well suited for this method of fabrication. MFIs range from 2 to > 40. A narrow MMD gives the best compromise between toughness, flow into the mold, and freedom from warpage in the finished product.
+
+
+6.5. Pipe
+
+The use of polyethylene for pipes is one of the few engineering applications, where the applied stresses are carefully assessed and a lifetime of at least 50 years is required. Polyethylene is used for water and natural gas local distribution systems and, unlike many other uses, there is a substantial stress applied continuously. The potential problem is thus long-term stress rupture, and this must be carefully assessed by extrapolation and accelerated testing. Large quantities of pipe made of a medium-density polyethylene designed to withstand a stress in the PE of 8 MPa have been laid, but recent advances in bimodal HDPE polymers now enable a 50-year lifetime at a design stress of 10 MPa to be met. The first polymers which met this specification (PE 100) were introduced by Solvay in their TUB 120 range, but now all major producers have similar polymers in their ranges [130, 36].
+
+
+6.6. Wire and Cable Insulation
+
+Because of its outstanding dielectric properties, the first application of polyethylene was the insulation of very high frequency and submarine telephone cables. These have continued to be made from LDPE, but uses have expanded into 
+telephone and power cables. In the latter case cross-linking is increasingly used to enhance the properties and allow a higher current rating for a given size of cable.
+
+6.7. Ethylene Copolymers
+
+The processing techniques used for copolymers are generally the same as used for polyethylene homopolymers, but the range of applications is generally more diverse [12]. The property most generally exploited is the decreased rigidity to give more flexible film, moldings, and tubing than is possible with LDPE. Copolymers with high comonomer content are generally competitive with plasticized PVC and rubbers, with a low extractable additive content as an advantage. For flexibility down to the lowest temperatures acrylate copolymers are preferred over EVA copolymers. VLDPE copolymers, particularly those made by single-site catalysts, are increasingly being used in applications requiring flexibility combined with thermal stability and good low-temperature flexibility.
+
+Ethylene copolymers are also used in blends, in the same way as rubbers, to confer increased toughness. Particular applications include blends with wax and with bitumen for paper coating and road surfacing, respectively. Copolymers are also used as constituents of hot melt adhesives.
+
+
+6.8. Ultra High Modulus Polyethylene Fibers
+
+Because of their low softening point polyethylene fibers have not been of interest for general purpose textile use, although substantial amounts are used for producing monofilament. In 1973 Capaccio and Ward showed that solid HDPE could be drawn at elevated temperatures to very high draw ratios to produce fibers with a tensile modulus of 70 GPa and a tensile strength of 1 GPa (Kevlar 149: 172 GPa and 3.4 GPa, respectively). Theoretical values for a perfect extended-chain crystal are 300 GPa and ca. 25 GPa, and thus these early results achieved a significant fraction of the maximum modulus possible. Further developments have been on parallel fronts: melt spinning followed by solid-state drawing, and gel spinning.
+
+Melt spinning has been adopted commercially by Celanese, SNIA, and Mitsui. Gel spinning consists of forming a dilute solution in a heavy solvent and then extruding it so that gelled PE fibers are formed on cooling and can then be drawn on conventional fiber-making equipment. The solvent has to be removed by evaporation or solvent extraction. The gel-spinning process is operated by Allied Signal and DSM. The melt-spinning process is limited to moderate molecular masses because of the polymer viscosity, but the gel-spinning process can use higher molecular mass PEs and achieves higher modulus and tensile strength (172 GPa and 3.0 GPa). Further advances may be expected on using PEs made with single-site catalysts. Since the production costs of the gel-spinning process are higher there seems to be a market for both types of product.
+
+Limitations on the uses include the low softening temperature and creep. Creep can be reduced considerably by cross-linking [131]. For use in composites the fibers must exhibit good adhesion to epoxy resins, and this can be achieved by various methods, principally by plasma treatment [132]. PE fibers have poor compressive strength and so for composites they are usually used in combination with other reinforcing fibers such as glass or carbon. The principal market is probably in energy-absorption applications such as personal armour where the characteristics which are responsible for creep give rise to energy absorption superior to existing materials. Other applications which make use if its high modulus are in leading-edge sporting goods where it competes with carbon fiber, aramid etc. [133, 134, 132].
+

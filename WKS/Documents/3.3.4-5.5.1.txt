@@ -1,0 +1,51 @@
+﻿3.3.4. Copolymerization
+
+Copolymerization of ethylene and aolefins is the basis of the large and expanding LLDPE market. As with the free radical case the important factors in addition to those of homopolymerization are the relative reactivities and chain transfer. Both Phillips and Ziegler catalysts copolymerize olefins, but the latter are more widely used because they can be more readily tailored to produce narrow distributions of composition and molecular mass. As has been noted in Section 3.3, polymerizations with typical coordination catalysts do not follow classical polymerization kinetics and hence the reactivity ratio concept is not strictly applicable. For completely soluble polymerization systems r1 is very high and increases with the comonomer chain length (e.g., 29 for butene and 73 for octene, calculated from data in [41]). However, in the case of heterogeneous catalysts and heterogeneous polymerization systems, in particular, the apparent reactivity ratios are lower and may even decrease with increasing olefin chain length. This is presumably due to mass transfer and solubility effects in the growing particles. Chain transfer is enhanced in the presence of olefin comonomer, but this can be compensated by lowering the hydrogen concentration.
+
+Literature articles have appeared on the copolymerization of ethylene with monomers such as styrene, butadiene, vinyl chloride, esters, and others but these have involved Ziegler catalyst variants with poor yields. For practical purposes the range of comonomers polymerizable by Ziegler catalysis is at present limited to olefins and nonconjugated diolefins. The advent of single-site catalysts with high intrinsic activity is removing some of these limitations. 
+
+4. Raw Materials
+
+4.1. Ethylene
+
+The first polyethylene plant built by ICI used ethylene produced by dehydration of ethanol. Modern ethylene production plants are based on the thermal cracking of hydrocarbon feedstocks at ca. 850 C. Due to the availability of raw materials, the feedstock used predominantly in North America was originally ethane, with naphtha being used more commonly in Europe. The tendency now is for crackers to be designed to accept a wider range of feedstocks, so as to match the range of coproducts such as propene to the market requirements.
+
+Modern plants produce ethylene with a quality which in many cases is suitable for polymerization with little or no further purification. In North America and Europe, producers supply ethylene to an agreed specification via a common ethylene grid, and polymerization plants take their supplies from these pipelines. In the case of sensitive catalyst systems such as the Phillips catalyst some further purification may be necessary to ensure that maximum impurity levels are not exceeded. Table 8 lists specifications for a polymerization-grade ethylene suitable for most processes. There are overall limits on inert materials such as ethane or nitrogen which, because of the efficient recycle system, could build up and dilute the process stream. The main impurities of importance to the free-radical process are oxygen and water. The former could cause inhibition of low-temperature initiators, or uncontrolled initiation of reaction at higher temperatures. At moderate concentrations (after concentration by the recycle) water can form ethylene hydrate [98] in the cooler parts of the high-pressure process, completely blocking the pipework. Some of the other specified compounds can produce problems of molecular mass control or inhibition in the free-radical process, but only at very much higher concentrations.
+
+In the case of the Phillips and Ziegler processes, the materials included in the specification act as catalyst poisons. Hydrogen is a poison only for the Phillips catalyst.
+
+
+4.2. Comonomers
+
+The vinyl acetate and acrylate esters used as comonomers in the free-radical process are normal commercial quality materials containing sufficient stabilizer to prevent homopolymerization in storage or during pumping, but not so much as to affect the copolymerization reaction. They must be freed of dissolved oxygen by nitrogen sparging.
+
+The butene used in LLDPE is normally a purified refinery product, although in the United States material is available from the oligomerization of ethylene. As an alternative to buying butene with its associated transport problems, IFP have developed the Alphabutol process [99, 100] for dimerizing ethylene as a compact adjunct to a polymerization plant. There is also the possibility of using a polymerization catalyst capable of simultaneously dimerizing ethylene [101, 102].
+
+The higher a-olefins such as hexene and octene used in LLDPE processes are ethylene oligomerization products. They must be freed of oxygen and water before use in the polymerization process. The 4-methylpentene used by BP is a propylene dimer made by an alkali metal catalyzed process.
+
+
+4.3. Other Materials
+
+The initiators and catalysts are described in Section 3.2. All the free radical initiators and many of the Ziegler and Phillips catalysts are manufactured by specialist suppliers. Some of the simpler Ziegler catalysts may be made on-site from basic chemicals such as TiCl4, MgCl2, etc. The aluminum alkyls are made by a very few international suppliers.
+
+Initiator solvents and compressor lubricants for the free-radical process are carefully selected 
+to be free of aromatic compounds, since much of the product may be used for food packaging.
+
+
+5. Production Processes
+
+Modern polyethylene production processes offer the possibility of a versatile range of products. High-pressure processes can produce LLDPE in addition to the normal range of LDPEs and ester copolymers. As well as HDPE some low-pressure plants can also produce LLDPE and VLDPE, and in many cases these compete for the same market as LDPE and the ester copolymers. A guide to the applicability of the various types of processes is given in Table 9.
+
+
+The comparison is on the basis of construction on a United States Gulf Coast site using the largest stream size currently (1996) available for licensing. The costings assume the production of pellets and this results in higher costs for the gas-phase and slurry plants than would be the case if 100 % sales of ex-reactor granules could be assumed. Some differences due to the economy of scale occur as a result of the available stream size. The production costs are dominated by the cost of ethylene, although some differences such as the extra cost of electrical energy can be noted. In the case of LLDPE these costings assume a unit cost for the butene equal to 1.05 times that of ethylene. In many other parts of the world the price of butene, including transport, is considerably higher. The unit price of higher olefins is generally appreciably higher
+
+than that of ethylene, from which they are derived by oligomerization.
+
+
+5.1. High-Pressure Process
+
+A flowsheet of the high-pressure polyethylene process is shown in Figure 14. The reactor may take one of two forms: a high-pressure autoclave or a jacketted tube, but otherwise the processes are similar. The reaction pressure is typically in the range 150 – 200 MPa for the autoclave process and 200 – 350 MPa for a tubular reactor.
+
+Such high pressures call for very specialized technology and many key features have remained proprietary information. The design of thick-walled cylinders requires a different type of analysis [103, 104] from that for lower pressure vessels, and fatigue is a major design consideration for pumps and compressors. A drawing of the second stage cylinder of a high-pressure ethylene compressor is shown in Figure 15, which illustrates the massive construction necessary and the avoidance of cross-bores to improve fatigue resistance at the very highest pressures. Specialized forms of sealing joints in vessels and pipework have been developed which make use of the pressure itself to increase the sealing forces.
+
+Referring to Figure 14, the fresh ethylene enters from the refinery at ca. 5 MPa, mixes with the low-pressure recycle and is compressed to 25 MPa. After mixing with the intermediate-pressure recycle, the pressure is raised in the secondary (or hyper) compressor to 150 –350 MPa for feeding to the reactor. The pressure in the reactor is controlled automatically by a flow control valve at the reactor outlet. The reaction mixture then passes through a cooler to reduce the polymer temperature to a value suitable for feeding the pelletizing extruder. The polyethylene is separated from the majority of the unreacted monomer in the intermediate separator at ca. 27 MPa. This pressure is chosen to give a compromise between separation efficiency and compression energy savings. The remaining monomer is removed in the low-pressure separator that feeds the pelletizing extruder. The extrudate is pelletized underwater by a die-face cutter, and the pellets are then dried and conveyed to temporary storage hoppers to await quality control clearance. Finally the pellets are transferred to silos for blending and storage, before off-loading to tankers or sacks.
