@@ -1,4 +1,4 @@
-Acclaim Verified Badges and accomplishments:</br>
+IBM-Oriented Acclaim Verified Badges and accomplishments:</br>
 </br>
 Watson Knowledge Studio Methodology:</br>
 https://www.youracclaim.com/badges/a7b53b2f-ca15-41a9-9e60-86e207cdf38c</br>
@@ -20,8 +20,8 @@ https://www.youracclaim.com/earner/earned/badge/09c3751a-470b-417e-b097-3ad3aeb0
 </br>
 Data Science Foundations Specialist:</br>
 https://www.youracclaim.com/earner/earned/badge/11fb76db-3f49-4e3f-93a1-dbf6aea32f3b</br>
-</br>
-Coursera Badges and Achievement:</br>
+</br></br>
+IBM-Oriented Coursera Badges and Achievement:</br>
 </br>
 Machine Learning with Python:</br>
 https://www.coursera.org/account/accomplishments/records/M4V6A6XS2MWK</br>
