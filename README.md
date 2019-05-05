@@ -27,3 +27,4 @@ WKS -> Documents -> Documents used for development of the model, the type system
 WKS -> Dictionaries -> Preannotation Dictionaries;
 WKS -> Type System -> Type system file;
 NodeRed -> NodeRed integration file;
+Badges_Specializations_Courses_Achievements -> Some of the IBM-oriented work I have done
