@@ -1,0 +1,1538 @@
+{
+  "name": "ethylene_plant",
+  "intents": [
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "Are there jokes?"
+        },
+        {
+          "text": "Can you tell a joke?"
+        },
+        {
+          "text": "Can you tell me a joke?"
+        },
+        {
+          "text": "Another joke"
+        },
+        {
+          "text": "What is your favorite joke?"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "Tell me something funny"
+        },
+        {
+          "text": "Tell me a joke"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        },
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "I'm bored"
+        },
+        {
+          "text": "I want a joke"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "Do you like fun?"
+        },
+        {
+          "text": "Do you have humor?"
+        },
+        {
+          "text": "Do you have a joke?"
+        }
+      ],
+      "description": "Request a joke."
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "I am out of here"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "General_Chemical_Safety",
+      "examples": [
+        {
+          "text": "I need some general chemical safety information."
+        },
+        {
+          "text": "Can you give me some chemical safety info?"
+        },
+        {
+          "text": "Can you give me some general chemical safety info?"
+        }
+      ],
+      "description": "Request general chemical safety info"
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You've been so helpful :)"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "Chemical_Specs",
+      "examples": [
+        {
+          "text": "Can I get chemical specs?"
+        },
+        {
+          "text": "I need chemical specifications."
+        },
+        {
+          "text": "Can you give me some data on a chemical?"
+        },
+        {
+          "text": "I need information about a chemical."
+        }
+      ],
+      "description": "Inquiry about chemical specifications"
+    },
+    {
+      "intent": "General_Help",
+      "examples": [
+        {
+          "text": "Can you please help me?"
+        },
+        {
+          "text": "Can you help me?"
+        },
+        {
+          "text": "I am having trouble"
+        },
+        {
+          "text": "I need assistance."
+        },
+        {
+          "text": "I have a problem."
+        },
+        {
+          "text": "Help me!"
+        },
+        {
+          "text": "Help me with this."
+        },
+        {
+          "text": "I need help."
+        }
+      ],
+      "description": "Inquiry to help"
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hello"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "MSDS",
+      "examples": [
+        {
+          "text": "Can you give me the MSDS?"
+        },
+        {
+          "text": "I need help finding the MSDS"
+        },
+        {
+          "text": "I need MSDS."
+        }
+      ],
+      "description": "Request MSDS for certain chemicals"
+    },
+    {
+      "intent": "General_Safety_regulations",
+      "examples": [
+        {
+          "text": "Could you find some safety regulations for me?"
+        },
+        {
+          "text": "I need safety regulations."
+        },
+        {
+          "text": "Can you tell me what the safety regulations are?"
+        },
+        {
+          "text": "Can you give me some information about safety?"
+        },
+        {
+          "text": "I need some safety info."
+        }
+      ],
+      "description": "Inquiry about safety regulations."
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're too stupid"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "It is annoying"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "Equipment_Specs",
+      "examples": [
+        {
+          "text": "operation params"
+        },
+        {
+          "text": "I need safety information for equipment."
+        },
+        {
+          "text": "I need the parameters for some equipment."
+        },
+        {
+          "text": "Could you find information on this equipment?"
+        },
+        {
+          "text": "I need help getting info on the eq I'm using."
+        }
+      ],
+      "description": "Inquiry about equipment specifications"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Equipment",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "autoclave reactor",
+          "synonyms": [
+            "autoclave"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "eyewash",
+          "synonyms": [
+            "eye shower",
+            "safety shower"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Information_type",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "General_Safety_Regulations",
+          "synonyms": [
+            "OSHA Rules",
+            "Safety rules",
+            "safety regulations",
+            "OSHA Regulations",
+            "Safety information",
+            "safety info"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Process_Unit_Parameters",
+          "synonyms": [
+            "Process unit",
+            "equipment specs",
+            "equipment specifications",
+            "equipment parameters",
+            "operation parameters",
+            "production specs",
+            "operation specifications",
+            "operation params"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Safety_equipment_regulations",
+          "synonyms": [
+            "Safety equipment",
+            "Safety eq regulations",
+            "Safety Equipment rules"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Process_unit_safety",
+          "synonyms": [
+            "Equipment safety",
+            "Process unit safe handling",
+            "Equipment safe handling",
+            "Process units precautions",
+            "Equipment handling precautions"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "MSDS",
+          "synonyms": [
+            "Material Safety Data Sheet",
+            "Safety Data Sheet",
+            "SDS"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "General_Process_unit_safety",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "General_Process_Unit_Parameters",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "General_Safety_equipment_regulations",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Chemical_Safety_Information",
+          "synonyms": [
+            "Chemical Safety",
+            "Chemical Safety info"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "chemical",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "HDPE",
+          "synonyms": [
+            "High Density Polyethylene",
+            "HD Polyethylene",
+            "HD Poly"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "polyethylene",
+          "synonyms": [
+            "poly",
+            "PE"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "LDPE",
+          "synonyms": [
+            "Low Density Polyethylene",
+            "Low Density Poly",
+            "LD Polyethylene",
+            "LD Poly"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "language": "en",
+  "metadata": {
+    "api_version": {
+      "major_version": "v1",
+      "minor_version": "2018-09-20"
+    }
+  },
+  "description": "",
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "General_Safety_Equipment_regulations",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1555802921372",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_7_1554990744005"
+      },
+      "conditions": "@Information_type:General_Safety_equipment_regulations",
+      "dialog_node": "node_6_1554990679811"
+    },
+    {
+      "type": "standard",
+      "title": "HDPE_General_Safety",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the general safety information on HDPE:  <a href = \"http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_091f/0901b8038091f9d5.pdf\">Safety info</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1554987155841",
+      "metadata": {},
+      "conditions": "@chemical:HDPE",
+      "dialog_node": "node_18_1554987528075",
+      "previous_sibling": "node_16_1554987231201"
+    },
+    {
+      "type": "standard",
+      "title": "LDPE_General_safety",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the general safety information on LDPE:  <a href = \"http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_091f/0901b8038091f9e0.pdf\">Safety info</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1554987155841",
+      "metadata": {},
+      "conditions": "@chemical:LDPE",
+      "dialog_node": "node_19_1554987593569",
+      "previous_sibling": "node_18_1554987528075"
+    },
+    {
+      "type": "standard",
+      "title": "Polyethylene_general_safety",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here are the general safety guidelines for polyethylene: <a href = \"http://www.novachem.com/Product%20Documents/SCLAIRNotColoured_RP_AMER_EN.pdf\">Safety info</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1554987155841",
+      "metadata": {},
+      "conditions": "@chemical:polyethylene",
+      "dialog_node": "node_16_1554987231201"
+    },
+    {
+      "type": "standard",
+      "title": "General_safety_info",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1554984521001",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_14_1554987155841"
+      },
+      "conditions": "@Information_type:Chemical_Safety_Information",
+      "dialog_node": "node_1_1554987750461",
+      "previous_sibling": "node_9_1554986398040"
+    },
+    {
+      "type": "standard",
+      "title": "MSDS",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_3_1554984521001",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_10_1554986620135"
+      },
+      "conditions": "@Information_type:MSDS",
+      "dialog_node": "node_9_1554986398040"
+    },
+    {
+      "type": "standard",
+      "title": "LDPE_MSDS",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the MSDS for LDPE:  href=\"https://www.redwoodplastics.com/wp-content/uploads/2010/03/LDPE-2012.pdf\">MSDS</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1554986620135",
+      "metadata": {},
+      "conditions": "@chemical:LDPE",
+      "dialog_node": "node_13_1554986620136",
+      "previous_sibling": "node_12_1554986620136"
+    },
+    {
+      "type": "standard",
+      "title": "HDPE_MSDS",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the MSDS for HDPE:  <a href=\"http://www.opalindia.in/PDF/HDPE/Material%20Safety%20Data%20Sheet_HDPE.pdf\">MSDS</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1554986620135",
+      "metadata": {},
+      "conditions": "@chemical:HDPE",
+      "dialog_node": "node_12_1554986620136",
+      "previous_sibling": "node_11_1554986620136"
+    },
+    {
+      "type": "standard",
+      "title": "Polyethylene_MSDS",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the Material Safety Data Sheet for Polyethylene: <a href=\"http://www.sasoltechdata.com/MSDS/POLYETHYLENE.pdf\">MSDS</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1554986620135",
+      "metadata": {},
+      "conditions": "@chemical:polyethylene",
+      "dialog_node": "node_11_1554986620136"
+    },
+    {
+      "type": "standard",
+      "title": "General_process_unit_safety",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1555802810299",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_2_1554989478308"
+      },
+      "conditions": "@Information_type:General_Process_unit_safety",
+      "dialog_node": "node_3_1554989574006"
+    },
+    {
+      "type": "standard",
+      "title": "Eyewash_guidelines",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here are the general regulations for eyewash stations:  <a href = \"https://www.wnins.com/resources/commercial/OSHA%20Regulatory/eyewash.pdf\">Guidelines</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1554990744005",
+      "metadata": {},
+      "conditions": "@Equipment:eyewash",
+      "dialog_node": "node_3_1555008223015"
+    },
+    {
+      "type": "standard",
+      "title": "Autoclave_general_safety",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here are the general safety guidelines for operating the autoclave reactor:  <a href = \"https://www.ehs.washington.edu/system/files/resources/autoclave-safety.pdf\">Guidelines</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1554989478308",
+      "metadata": {},
+      "conditions": "@Equipment:(autoclave reactor)",
+      "dialog_node": "node_1_1555007433504"
+    },
+    {
+      "type": "standard",
+      "title": "General_Operation_parameters",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1555802860946",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_5_1554990053799"
+      },
+      "conditions": "@Information_type:General_Process_Unit_Parameters",
+      "dialog_node": "node_4_1554989811683"
+    },
+    {
+      "type": "standard",
+      "title": "Equipment_Safety_Guidelines",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1555008910984",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_3_1554989574006"
+      },
+      "conditions": "@Information_type:Safety_equipment_regulations",
+      "dialog_node": "node_6_1555009121220",
+      "previous_sibling": "node_5_1555008994931"
+    },
+    {
+      "type": "standard",
+      "title": "Chemical_Safety_Guidelines",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1555008910984",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_1_1554987750461"
+      },
+      "conditions": "@Information_type:Chemical_Safety_Information",
+      "dialog_node": "node_5_1555008994931"
+    },
+    {
+      "type": "standard",
+      "title": "Process_unit_parameters",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1554989123368",
+      "metadata": {},
+      "conditions": "@Information_type:Process_Unit_Parameters",
+      "dialog_node": "node_2_1555802860946",
+      "previous_sibling": "node_1_1555802810299"
+    },
+    {
+      "type": "standard",
+      "title": "Safety_Equipment_regulations",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1554989123368",
+      "metadata": {},
+      "conditions": "@Information_type:Safety_equipment_regulations",
+      "dialog_node": "node_3_1555802921372",
+      "previous_sibling": "node_2_1555802860946"
+    },
+    {
+      "type": "standard",
+      "title": "Process_unit_safety",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1554989123368",
+      "metadata": {},
+      "conditions": "@Information_type:Process_unit_safety",
+      "dialog_node": "node_1_1555802810299"
+    },
+    {
+      "type": "standard",
+      "title": "Autoclave_Operation_Parameters",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here are general operation parameters for an autoclave reactor: <a href = \"https://www.drs.illinois.edu/SafetyLibrary/AutoclaveSafetyAndOperation\">Parameters</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1554990053799",
+      "metadata": {},
+      "conditions": "@Equipment:(autoclave reactor)",
+      "dialog_node": "node_2_1555007836274"
+    },
+    {
+      "type": "standard",
+      "title": "HDPE_General_Safety - copy1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the general safety information on HDPE:  <a href = \"http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_091f/0901b8038091f9d5.pdf\">Safety info</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@chemical:HDPE",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1555803230791",
+      "previous_sibling": "node_7_1555803216572"
+    },
+    {
+      "type": "standard",
+      "title": "Autoclave_General_Operation_Parameters",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here are general operation parameters for an autoclave reactor: <a href = \"https://www.drs.illinois.edu/SafetyLibrary/AutoclaveSafetyAndOperation\">Parameters</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@Equipment:(autoclave reactor)",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_11_1555803286251",
+      "previous_sibling": "node_10_1555803259891"
+    },
+    {
+      "type": "standard",
+      "title": "MSDS_main",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What chemical do you need MSDS for?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@Information_type:MSDS || #MSDS",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_10_1554986620135",
+      "previous_sibling": "node_12_1555803340853"
+    },
+    {
+      "type": "standard",
+      "title": "LDPE_General_safety - copy1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the general safety information on LDPE:  <a href = \"http://msdssearch.dow.com/PublishedLiteratureDOWCOM/dh_091f/0901b8038091f9e0.pdf\">Safety info</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@chemical:LDPE",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1555803243505",
+      "previous_sibling": "node_8_1555803230791"
+    },
+    {
+      "type": "standard",
+      "title": "Autoclave_general_safety - copy1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here are the general safety guidelines for operating the autoclave reactor:  <a href = \"https://www.ehs.washington.edu/system/files/resources/autoclave-safety.pdf\">Guidelines</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@Equipment:(autoclave reactor)",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_10_1555803259891",
+      "previous_sibling": "node_9_1555803243505"
+    },
+    {
+      "type": "standard",
+      "title": "General_Process_Unit_Safety",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What type of equipment do you need information about?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@Information_type:Process_unit_safety",
+      "dialog_node": "node_2_1554989478308",
+      "previous_sibling": "node_14_1554987155841"
+    },
+    {
+      "type": "standard",
+      "title": "HDPE_MSDS - copy1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the MSDS for HDPE:  <a href=\"http://www.opalindia.in/PDF/HDPE/Material%20Safety%20Data%20Sheet_HDPE.pdf\">MSDS</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@chemical:HDPE",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1555803180903",
+      "previous_sibling": "node_4_1555803167550"
+    },
+    {
+      "type": "standard",
+      "title": "Equipment_Specs",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What type of information do you need?"
+              },
+              {
+                "text": "What do you want to know?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Equipment_Specs",
+      "dialog_node": "node_1_1554989123368",
+      "previous_sibling": "node_3_1554984521001"
+    },
+    {
+      "type": "standard",
+      "title": "Polyethylene_general_safety - copy1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here are the general safety guidelines for polyethylene: <a href = \"http://www.novachem.com/Product%20Documents/SCLAIRNotColoured_RP_AMER_EN.pdf\">Safety info</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@chemical:polyethylene",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_7_1555803216572",
+      "previous_sibling": "node_6_1555803196683"
+    },
+    {
+      "type": "standard",
+      "title": "General_Safety_chem",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Which chemical do you need to know about?"
+              },
+              {
+                "text": "What chemical do you want safety information for?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@Information_type:Chemical_Safety_Information || #General_Chemical_Safety",
+      "dialog_node": "node_14_1554987155841",
+      "previous_sibling": "node_10_1554986620135"
+    },
+    {
+      "type": "standard",
+      "title": "Chemical_Specs",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What type of information do you need?"
+              },
+              {
+                "text": "What do you want to know?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Chemical_Specs",
+      "dialog_node": "node_3_1554984521001",
+      "previous_sibling": "node_7_1554990744005"
+    },
+    {
+      "type": "standard",
+      "title": "General_Operation_Parameters",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Which piece of Equipment do you want to know about?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@Information_type:Process_Unit_Parameters",
+      "dialog_node": "node_5_1554990053799",
+      "previous_sibling": "node_2_1554989478308"
+    },
+    {
+      "type": "standard",
+      "title": "General_Eyewash_guidelines",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here are the general regulations for eyewash stations:  <a href = \"https://www.wnins.com/resources/commercial/OSHA%20Regulatory/eyewash.pdf\">Guidelines</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@Equipment:eyewash",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_12_1555803340853",
+      "previous_sibling": "node_11_1555803286251"
+    },
+    {
+      "type": "standard",
+      "title": "LDPE_MSDS - copy1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the MSDS for LDPE:  <a href=\"https://www.redwoodplastics.com/wp-content/uploads/2010/03/LDPE-2012.pdf\">MSDS</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@chemical:LDPE",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1555803196683",
+      "previous_sibling": "node_5_1555803180903"
+    },
+    {
+      "type": "standard",
+      "title": "Greeting",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, how may I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_2_1554988114202",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am asking Watson Discovery right now. Please give me a few seconds!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_4_1555008910984"
+    },
+    {
+      "type": "standard",
+      "title": "General_Safety_Regulations",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Are you looking for equipment safety guidelines, or chemical safety guidelines?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#General_Safety_regulations",
+      "dialog_node": "node_4_1555008910984",
+      "previous_sibling": "node_1_1554989123368"
+    },
+    {
+      "type": "standard",
+      "title": "General help",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What can I help you with?"
+              },
+              {
+                "text": "What are you having trouble with?"
+              },
+              {
+                "text": "What do you need help with?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#General_Help",
+      "dialog_node": "node_7_1555009221467",
+      "previous_sibling": "node_2_1554988114202"
+    },
+    {
+      "type": "standard",
+      "title": "Polyethylene_MSDS - copy1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Here is the Material Safety Data Sheet for Polyethylene: <a href=\"http://www.sasoltechdata.com/MSDS/POLYETHYLENE.pdf\">MSDS</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@chemical:polyethylene",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_4_1555803167550",
+      "previous_sibling": "node_7_1555009221467"
+    },
+    {
+      "type": "standard",
+      "title": "General_Safety_Equipment_params",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Which equipment do you need information about?"
+              },
+              {
+                "text": "Which piece of safety equipment can I tell you about?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@Information_type:Safety_equipment_regulations",
+      "dialog_node": "node_7_1554990744005",
+      "previous_sibling": "node_5_1554990053799"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "workspace_id": "86d0deca-a844-4bc1-9ab0-a56b7e8041a6",
+  "counterexamples": [],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    }
+  },
+  "learning_opt_out": false,
+  "status": "Available"
+}
