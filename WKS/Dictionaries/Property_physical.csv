@@ -1,0 +1,114 @@
+lemma,poscode,surface
+antiblock,3,antiblock
+tonnage,3,tonnage
+antistat,3,antistat
+aromatic,3,aromatic
+antiblock,3,antiblock
+biodegradable,3,biodegradable
+bioerodable,3,bioerodable
+c/h ratio,3,carbon to hydrogen ratio
+creep,3,creep
+cetane index,3,cetane index
+degradable,3,degradable
+diesel index,3,diesel index
+elongation,3,elongation
+elasticity,3,elasticity
+extrusion pressure,3,extrusion pressure
+final boiling point,3,final boiling point,fbp
+film strength,3,film strength
+flash point,3,flash point
+fire point,3,fire point
+gas balance,3,gas balance
+hhv,3,hhv,higher heating value
+hp,3,hp,horsepower
+ibp,3,ibp,initial boiling point
+lhv,3,lhv,lower heating value
+length-to-diameter ratio,3,length-to-diameter ratio,l/d ratio
+maximum rate limit,3,maximum rate limit,mrl
+melt strength,3,melt strength
+melt flow index,3,melt flow index
+melt index,3,melt index
+melt temperature,3,melt temperature
+opacity,3,opacity
+otr,3,otr,oxygen transmission rate
+permeability,3,permeability
+pressure,3,pressure,pressures
+viscosity,3,viscosity
+viscous,4,viscous
+friction,3,friction
+toughness,3,toughness
+chemical inertness,3,chemical inertness
+stiffness,3,stifness
+ionic,4,ionic
+porosity,3,porosity
+specific gravity,3,specific gravity
+specific heat,3,specific heat
+stp,3,stp,standard temperature and pressure
+stratification,3,stratification
+sit,3,sit
+secant modulus,3,secant modulus
+slip,3,slip
+toxicity,3,toxicity
+polymerization rate,3,polymerization rate
+molecular structure,3,molecular structure
+tg,3,tg,glass transition temperature
+tm,3,tm,melting temperature
+thermal value,3,thermal value
+tensile strength,3,tensile strength
+air permeability,3,air permeability
+anti-static performance,3,anti-static performance
+anti-fatigue properties,3,anti-fatigue properties
+assigned protection factor,3,assigned protection factor,apf
+atpv,3,atpv,arc thermal performance value
+action level,3,action level
+acute toxicity,3,acute toxicity
+temperature,3,temperature,temperatures
+high-temperature,4,high-temperature
+high-pressure,4,high-pressure
+density,3,density,densities
+crystallinity,3,crystallinity
+capacity,3,capacity
+auto-ignition temperature,3,auto-ignition temperature
+boiling point,3,boiling point
+bending stiffness,3,bending stiffness
+breaking load,3,breaking load
+bursting strength,3,bursting strength
+bioavailability,3,bioavailability
+biological half-life,3,biological half-life
+biomagnification,3,biomagnification
+bod,3,bod
+concentration,3,concentration
+excretion rate,3,excretion rate
+exposure limit,3,exposure limit
+extraneous residue limit,3,extraneous residue limit
+fit factor,3,fit factor
+flammability,3,flammability
+inorganic,3,inorganic
+loi,3,loi,limiting oxygen index
+muc,3,muc,maximum use concentration
+nrr,3,nrr,noise reduction rating
+pel,3,pel,permissible exposure limit
+resistance,3,resistance
+surface appearance,3,surface appearance
+thermal conductivity,3,thermal conductivity
+thermal protection,3,thermal protection
+tpp,3,ttp,thermal protective performance
+tlv,3,tlv,threshold limit value
+voltage,3,voltage
+amorphous,4,amorphous
+acidic,4,acidic
+aliphatic,4,aliphatic
+demulsibility,4,demulsibility
+opaque,4,opaque
+permeable,4,permeable
+porous,4,porous
+soluble,4,soluble
+low-temperature,4,low-temperature
+low-pressure,4,low-pressure
+high-density,4,high-density
+low-density,4,low-density
+crystalline,4,crystalline
+dense,4,dense
+waxy,4,waxy
+caustic,4,caustic
+water reactive,4,water reactive

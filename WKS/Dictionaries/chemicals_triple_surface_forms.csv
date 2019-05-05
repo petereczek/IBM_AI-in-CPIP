@@ -1,0 +1,306 @@
+lemma,poscode,surface
+blend,2,Blend
+propene,3,propene
+acetone,3,acetone
+Ethylene-vinyl acetate,3,Ethylene-vinyl acetate,eva
+sodium,3,sodium
+zinc,3,zinc
+acetylene,3,acetylene
+aminobenzene,3,aminobenzene
+ammonium nitrate,3,ammonium nitrate
+bakelite,3,Bakelite
+benzene,3,Benzene
+carboxybenzene,3,carboxybenzene
+chlorine,3,chlorine
+chloroprene,3,chloroprene
+coumarin,3,coumarin
+dimethyl ketone,3,dimethyl ketone
+ethylene glycol,3,ethylene glycol
+ethylene oxide,3,ethylene oxide
+frit,3,frit
+herbicides,3,herbicides
+hydroxybenzene,3,hydroxybenzene
+insecticides,3,insecticides
+isobutylene,3,isobutylene
+isoprene,3,isoprene
+isopropyl alcohol,3,isopropyl alcohol
+isopropylbenzene,3,isopropylbenzene
+methylbenzene,3,methylbenzene
+neoprene,3,neoprene
+nitric acid,3,nitric acid
+nitrocellulose,3,nitrocellulose
+nitrous oxide,3,nitrous oxide
+oxygen,3,oxygen
+phenol,3,phenol
+polyester,3,polyester
+polymerized propylene,3,polymerized propylene
+polyurethane,3,polyurethane
+propylene,3,propylene
+sodium hydroxide,3,sodium hydroxide
+soybean oil,3,soybean oil
+stearic acid,3,stearic acid
+styrene,3,styrene
+styrene-butadiene,3,styrene-butadiene
+sulfuric acid,3,sulfuric acid
+toluene,3,toluene
+urea,3,urea
+vanillin,3,vanillin
+xylenes,3,xylenes
+acetic acid,3,Acetic acid
+acetone ,3,acetone 
+acrylic acid,3,acrylic acid
+acrylic polymers,3,acrylic polymers
+acrylonitrile,3,acrylonitrile
+acrylonitrile-butadiene-styrene ,3,acrylonitrile-butadiene-styrene 
+additive,3,Additive
+adipic acid ,3,adipic acid 
+agrochemicals,3,agrochemicals
+alkanes,3,Alkanes
+alkyd resins,3,alkyd resins
+alkylbenzene ,3,alkylbenzene 
+allyl chloride ,3,allyl chloride 
+alpha,3,alpha
+ammonia,3,Ammonia
+aniline ,3,aniline 
+antiblock,3,Antiblock
+antioxidant,3,Antioxidant
+antistat,3,Antistat
+aromatic,3,Aromatic
+aromatic hydrocarbon,3,Aromatic Hydrocarbon
+ash,3,Ash
+asphaltenes,3,Asphaltenes
+associated gas,3,Associated Gas
+barefoot,3,Barefoot
+benchmark crude,3,Benchmark Crude
+benzene ,3,benzene 
+benzoic acid ,3,benzoic acid 
+benzyl benzoate,3,benzyl benzoate
+biodegradable plastic,3,Biodegradable Plastic
+biodiesel,3,Biodiesel
+biofuel,3,Biofuel
+biogas,3,Biogas
+bisphenol a ,3,bisphenol A 
+bitumen,3,Bitumen
+bottom sediment and water,3,Bottom sediment and water
+bottom sediment and water monitor,3,Bottom sediment and water monitor
+brake horsepower,3,Brake horsepower
+branched polymer,3,Branched polymer
+brent crude,3,Brent Crude
+bunker fuel oil,3,Bunker Fuel Oil
+butadiene,3,Butadiene
+butanol,3,Butanol
+butene,3,Butene
+butyl ether,3,butyl ether
+calcium carbonate,3,Calcium Carbonate
+caprolactam ,3,caprolactam 
+carbon,3,Carbon
+carbon aliphatic cyclic hydrocarbon ,3,carbon aliphatic cyclic hydrocarbon 
+carbon cyclic amide,3,carbon cyclic amide
+carbon dicarboxylic acid,3,carbon dicarboxylic acid
+catalyst,3,Catalyst
+ccr,3,CCR
+cellulose,3,Cellulose
+ceramic products,3,ceramic products
+chlorobenzene,3,chlorobenzene
+coalbed methane,3,Coalbed Methane
+comonomer,3,Comonomer
+composite polymer,3,Composite polymer
+compound,3,Compound
+condensate,3,Condensate
+condensation polymer,3,Condensation polymer
+continuous-type deposit,3,Continuous-Type Deposit
+conventional crude oil,3,Conventional Crude Oil
+conventional gas,3,Conventional Gas
+copolymer,3,Copolymer
+crude,3,Crude
+crystalline polymer,3,crystalline polymer
+cumene,3,cumene
+free radical,3,free radical
+cyclohexane,3,Cyclohexane
+detergent alcohols,3,detergent alcohols
+detergents,3,detergents
+dichloroethane,3,Dichloroethane
+dimethyl terephthalate,3,dimethyl terephthalate
+dodecylbenzene,3,Dodecylbenzene
+dry gas,3,Dry Gas
+dubai crude,3,Dubai Crude
+e85,3,E85
+elastomers,3,elastomers
+emulsion,3,Emulsion
+engine coolant,3,engine coolant
+epichlorohydrin,3,epichlorohydrin
+epoxy resins,3,epoxy resins
+ethanol,3,Ethanol
+ethanolamine,3,Ethanolamine
+ethoxylate,3,Ethoxylate
+ethoxylates,3,ethoxylates
+ethylbenzene,3,ethylbenzene
+ethylene,3,ethylene
+ethylene vinyl acetate,3,Ethylene Vinyl Acetate
+ethylene vinyl alcohol,3,Ethylene Vinyl Alcohol
+ethylhexanol,3,Ethylhexanol
+explosives,3,explosives
+extra-heavy crude,3,Extra-heavy Crude
+extrudate,3,Extrudate
+fertilizers,3,fertilizers
+formaldehyde moulding compound,3,Formaldehyde Moulding Compound
+fossil fuel,3,Fossil fuel
+fragrances and flavors,3,fragrances and flavors
+fuel gas,3,Fuel Gas
+fuel oil,3,Fuel oil
+gas plant products,3,Gas Plant Products
+gasoil,3,Gasoil
+gasoline,3,Gasoline
+gel,3,Gel
+glycol ethers,3,glycol ethers
+greenhouse gas,3,Greenhouse gas
+hdpe,3,HDPE,hdpes,high-density polyethylene,
+ldpe,3,ldpe,ldpes,low-density polyethylene
+heating oil,3,Heating Oil
+heavy crude,3,Heavy Crude
+hexene,3,Hexene
+higher olefins,3,higher olefins
+homopolymer,3,homopolymer
+hydrocarbon,3,Hydrocarbon
+industrial gases,3,industrial gases
+ionomer,3,Ionomer
+isomers of butylene,3,isomers of butylene
+isophthalic acid,3,isophthalic acid
+isthmus-34 light,3,Isthmus-34 Light
+kerogen,3,Kerogen
+kevlar,3,kevlar
+lard,3,lard
+light crude,3,Light Crude
+light ends,3,Light Ends
+linear alkyl benzene ,3,Linear alkyl benzene 
+marine diesel oil,3,Marine Diesel Oil
+medium density polyethylene,3,Medium Density Polyethylene
+melt,3,Melt
+meta,3,meta
+methane,3,Methane
+methanol,3,Methanol
+methyl tert,3,Methyl tert
+methylene diphenyl diisocyanate ,3,methylene diphenyl diisocyanate 
+mixed xylenes,3,mixed xylenes
+monomer,3,Monomer
+monomers,3,monomers
+motor gasoline,3,Motor Gasoline
+naphtha,3,Naphtha
+naphthenes,3,Naphthenes
+natural bitumen,3,Natural Bitumen
+natural gas,3,Natural Gas
+natural gas liquids,3,Natural Gas Liquids
+nh3n,3,NH3N
+nitrobenzene,3,nitrobenzene
+nitrogen,3,nitrogen
+nitroglycerin,3,nitroglycerin
+non hydrocarbon gas,3,Non Hydrocarbon Gas
+non-associated gas,3,Non-Associated Gas
+non-conventional gas,3,Non-Conventional Gas
+nylon,3,Nylon
+nylons,3,nylons
+octene,3,Octene
+oil,3,Oil
+oil & gas,3,Oil & Gas
+olefins,3,Olefins
+oleochemicals,3,oleochemicals
+oligomer,3,oligomer
+organic industrial,3,organic industrial
+ortho,3,ortho
+other higher olefins,3,other higher olefins
+oxirane,3,oxirane
+para,3,para
+pcb,3,PCB
+peak oil,3,Peak Oil
+petrochemical,3,Petrochemical
+petrochemicals,3,petrochemicals
+petroleum,3,Petroleum
+petroleum-in-place,3,Petroleum-in-Place
+polymer chains,3,polymer chains
+benzaldehyde,3,benzaldehyde
+phthalic acid,3,phthalic acid
+phthalic anhydride,3,phthalic anhydride
+polyamide,3,Polyamide
+plastic,3,plastic
+plastics,3,plastics
+polyamide resins,3,Polyamide Resins
+polycarbonate,3,polycarbonate
+polycyclic aromatic hydrocarbon,3,Polycyclic Aromatic Hydrocarbon
+polyesters,3,polyesters
+polyether polyol,3,polyether polyol
+polyethylene,3,polyethylene
+polyethylene terephthalate,3,Polyethylene Terephthalate
+polyisoprene,3,polyisoprene
+polymer,3,Polymer
+polymerization,3,Polymerization
+polymers,3,polymers
+polyolefins,3,Polyolefins
+polyolefins such poly,3,polyolefins such poly
+polypropylene,3,Polypropylene
+polystyrene,3,Polystyrene
+polystyrenes,3,polystyrenes
+polyvinyl alcohol,3,polyvinyl alcohol
+polyvinyl chloride,3,polyvinyl chloride
+propanol,3,propanol
+propylene glycol,3,propylene glycol
+propylene oxide,3,propylene oxide
+purified terephthalic acid,3,purified terephthalic acid
+ramsbottom coke,3,Ramsbottom coke
+raw natural gas,3,Raw Natural Gas
+reagent,3,Reagent
+reduced crude oil,3,Reduced Crude Oil
+residual fuel oil,3,Residual Fuel Oil
+silica brick,3,silica brick
+solution gas,3,Solution Gas
+solvent,3,Solvent
+solvents,3,solvents
+sour gas,3,Sour Gas
+sour natural gas,3,Sour Natural Gas
+styrene monomer,3,Styrene monomer
+sulfur,3,Sulfur
+sweet crude,3,Sweet Crude
+sweet gas,3,Sweet Gas
+sweet natural gas,3,Sweet Natural Gas
+synthesis gas,3,Synthesis gas
+synthetic rubbers,3,synthetic rubbers
+talc,3,Talc
+tetrachloroethylene,3,tetrachloroethylene
+thermosetting resin,3,Thermosetting Resin
+titanium dioxide,3,Titanium Dioxide
+toluene diisocyanate,3,toluene diisocyanate
+trichloroethylene,3,trichloroethylene
+vldpe,3,VLDPE,ULDPE,vldpes,very low-density polyethylene
+unsaturated polyesters,3,Unsaturated Polyesters
+vinyl,3,Vinyl
+vinyl acetate,3,vinyl acetate
+vinyl acetate monomer,3,Vinyl acetate monomer
+vinyl chloride,3,vinyl chloride
+vinyl chloride monomer,3,Vinyl chloride monomer
+xylene,3,Xylene
+aerosol,3,aerosol
+allergen,3,allergen
+antibody,3,antibody
+antigen,3,antigen
+acid,3,Acid
+asbestos,3,Asbestos
+biohazard,3,Biohazard
+carcinogen,3,carcinogen
+contaminant,3,contaminant
+carbon dioxide,3,Carbon Dioxide
+disinfectant,3,Disinfectant
+catalyst,3,catalyst,catalysts
+butene,3,butene,butenes
+benzene,3,benzenes
+enzymes,3,enzymes
+formaldehyde,3,Formaldehyde
+fungicide,3,Fungicide
+inorganic,3,Inorganic
+inorganic chemicals,3,Inorganic Chemicals
+organic,3,Organic
+oxidizer,3,Oxidizer
+xenoy,3,Xenoy
+inorganic,4,Inorganic
+organic,4,Organic
+lldpe,3,lldpe,linear low-density polyethylene
+acid,3,acid,acids
+copolymer,3,copolymer,copolymers
